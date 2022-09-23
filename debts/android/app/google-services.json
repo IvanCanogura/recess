@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "504475863382",
+    "project_id": "debts-manager-63f40",
+    "storage_bucket": "debts-manager-63f40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504475863382:android:687bc371eecf2300b5aef7",
+        "android_client_info": {
+          "package_name": "com.debtsmanager.debts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504475863382-3s5nmq07ah6kcth7e5n7u92sdb135gh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV6EIPI3zG3m42gBolAB_1rQKbkUHxOl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504475863382-3s5nmq07ah6kcth7e5n7u92sdb135gh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
